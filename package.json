@@ -1,0 +1,25 @@
+{
+  "name": "vitepress-vuetify-theme",
+  "version": "1.1.0",
+  "description": "A Vitepress theme use Vuetify.js ",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "type": "module",
+  "keywords": [
+    "vitepress"
+  ],
+  "author": "yangquan666",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "vue": "^3.5.11",
+    "vuetify": "^3.7.2"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "vitepress": "^1.4.0"
+  }
+}
