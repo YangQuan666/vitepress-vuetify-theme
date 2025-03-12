@@ -1,6 +1,6 @@
 {
   "name": "vitepress-vuetify-theme",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A Vitepress theme use Vuetify.js ",
   "main": "index.js",
   "type": "module",
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/YangQuan666/vitepress-vuetify-theme.git"
+    "url": "git+https://github.com/YangQuan666/vitepress-vuetify-theme.git"
   },
   "bugs": {
     "url": "https://github.com/YangQuan666/vitepress-vuetify-theme/issues"
   },
-  "homepage": "https://github.com/YangQuan6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66/vitepress-vuetify-theme#readme"
+  "homepage": "https://github.com/YangQuan666/vitepress-vuetify-theme#readme"
 }
